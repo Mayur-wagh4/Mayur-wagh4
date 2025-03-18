@@ -1,13 +1,11 @@
 # Hi there, I'm Mayur Wagh! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=22&pause=1000&color=2D9CDB&center=true&vCenter=true&width=435&lines=AWS+DevOps+Engineer;Infrastructure+as+Code+Specialist;Cloud+Architecture+Enthusiast;Problem+Solver" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:8e44ad&height=200&section=header&text=Mayur%20Wagh&fontSize=50&animation=fadeIn&fontAlignY=38&desc=AWS%20DevOps%20Engineer%20|%20Cloud%20Architecture%20Specialist&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&fontSize=90" width="100%"/>
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform&perline=4" /><br>
 </div>
 ## 👨‍💻 About Me
 
