@@ -32,17 +32,13 @@ I'm a **DevOps Engineer** with **2+ years** of experience in **AWS cloud infrast
   ### Frontend Development
   
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   
   ### Monitoring & Observability
   
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white" />
-  <img src="https://img.shields.io/badge/New_Relic-008C99?style=for-the-badge&logo=new-relic&logoColor=white" />
-  
+  <img src="https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white" /> 
 </div>
 
 ## 🚀 Featured Projects
@@ -51,7 +47,7 @@ I'm a **DevOps Engineer** with **2+ years** of experience in **AWS cloud infrast
   <tr>
     <td align="center">
       <a href="https://github.com/Mayur-wagh4/aws-serverless-app">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg" width="60" height="60"/>
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/awslambda.svg" width="60" height="60"/>
         <br />
         <b>AWS Serverless App</b>
       </a>
@@ -98,7 +94,7 @@ I'm a **DevOps Engineer** with **2+ years** of experience in **AWS cloud infrast
     </td>
     <td align="center">
       <a href="https://mayurwagh.in">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/internetexplorer.svg" width="60" height="60"/>
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googleearth.svg" width="60" height="60"/>
         <br />
         <b>Portfolio Website</b>
       </a>
@@ -111,7 +107,7 @@ I'm a **DevOps Engineer** with **2+ years** of experience in **AWS cloud infrast
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayur-wagh4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayur-wagh4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-wagh4&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
@@ -136,9 +132,6 @@ graph TD
     C --> H[Kubernetes]
     D --> I[GitHub Actions]
     D --> J[Jenkins]
-    K[React Development] --> L[Frontend Architecture]
-    K --> M[State Management]
-    K --> N[Performance Optimization]
 ```
 
 ## 📫 Let's Connect
@@ -153,15 +146,11 @@ graph TD
   <a href="mailto:mayurwagh2001@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/mayurwagh_dev">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
-  </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mayur-wagh4&style=flat-square&color=blue" alt="Profile views"/>
   <br>
   <em>"Every deployment is an opportunity to learn."</em>
 </div>
