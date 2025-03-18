@@ -55,9 +55,7 @@ Passionate about **DevOps, Cloud, CI/CD, Infrastructure as Code, and Observabili
 
 ## 📊 GitHub Stats & Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayur-wagh4&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-wagh4&layout=compact&theme=radical)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mayur-wagh4&theme=onedark)
 
 ---
 
