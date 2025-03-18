@@ -1,7 +1,7 @@
 # Hi there, I'm Mayur Wagh! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FEF&center=true&vCenter=true&random=false&width=500&lines=AWS+DevOps+Engineer;React+JS+Developer;Infrastructure+as+Code+Enthusiast;Cloud+Architecture+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FEF&center=true&vCenter=true&random=false&width=500&lines=AWS+DevOps+Engineer;Infrastructure+as+Code+Enthusiast;Cloud+Architecture+Specialist;React+JS+Developer;" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 About Me
