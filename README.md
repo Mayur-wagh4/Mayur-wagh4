@@ -1,70 +1,167 @@
-# Hi there, I'm Mayur Wagh! 👋
+# Hi there, I'm Mayur Wagh! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-🚀 **DevOps Engineer | Cloud Enthusiast | Kubernetes & Terraform Expert**
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FEF&center=true&vCenter=true&random=false&width=500&lines=AWS+DevOps+Engineer;React+JS+Developer;Infrastructure+as+Code+Enthusiast;Cloud+Architecture+Specialist" alt="Typing SVG" />
+</div>
 
-Passionate about **DevOps, Cloud, CI/CD, Infrastructure as Code, and Observability**. I specialize in **AWS, Kubernetes, Terraform, Jenkins, and Docker** to automate, scale, and monitor cloud-native applications.
+## 👨‍💻 About Me
 
-🌐 **Portfolio:** [MayurWagh.in](https://mayurwagh.in)
+I'm a **DevOps Engineer** with **2+ years** of experience in **AWS cloud infrastructure** and **React development**. I bridge the gap between development and operations, creating efficient, scalable, and automated cloud solutions.
+
+- 🔭 Currently working on **AWS-based CI/CD pipelines and infrastructure automation**
+- 🌱 Expanding my knowledge in **Kubernetes, Terraform, and serverless architectures**
+- 💬 Ask me about **AWS, DevOps practices, React, or cloud-native applications**
+- 🏗️ Building solutions that help teams **deploy faster and with more confidence**
+- 🚀 Passionate about **infrastructure as code** and **observability**
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  
+  ### Cloud & DevOps
+  
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+  
+  ### Frontend Development
+  
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  
+  ### Monitoring & Observability
+  
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white" />
+  <img src="https://img.shields.io/badge/New_Relic-008C99?style=for-the-badge&logo=new-relic&logoColor=white" />
+  
+</div>
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Mayur-wagh4/aws-serverless-app">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg" width="60" height="60"/>
+        <br />
+        <b>AWS Serverless App</b>
+      </a>
+      <br />
+      <sub>React + Lambda + API Gateway</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Mayur-wagh4/terraform-aws-infrastructure">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/terraform.svg" width="60" height="60"/>
+        <br />
+        <b>Terraform AWS Infrastructure</b>
+      </a>
+      <br />
+      <sub>IaC for multi-environment AWS</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Mayur-wagh4/kubernetes-deploy-pipeline">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kubernetes.svg" width="60" height="60"/>
+        <br />
+        <b>K8s Deploy Pipeline</b>
+      </a>
+      <br />
+      <sub>CI/CD for Kubernetes deployments</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Mayur-wagh4/react-aws-amplify">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg" width="60" height="60"/>
+        <br />
+        <b>React AWS Amplify</b>
+      </a>
+      <br />
+      <sub>Full-stack React with AWS backend</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Mayur-wagh4/monitoring-stack">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/prometheus.svg" width="60" height="60"/>
+        <br />
+        <b>Monitoring Stack</b>
+      </a>
+      <br />
+      <sub>Prometheus, Grafana & Alertmanager</sub>
+    </td>
+    <td align="center">
+      <a href="https://mayurwagh.in">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/internetexplorer.svg" width="60" height="60"/>
+        <br />
+        <b>Portfolio Website</b>
+      </a>
+      <br />
+      <sub>React + AWS Amplify</sub>
+    </td>
+  </tr>
+</table>
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayur-wagh4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-wagh4&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+## 🏆 DevOps Achievements
+
+- 🚀 **Reduced deployment time by 70%** through implementation of CI/CD pipelines
+- 💰 **Optimized AWS infrastructure costs by 35%** with proper resource scaling
+- 🛡️ **Enhanced security posture** by implementing infrastructure as code and security scanning
+- 📈 **Improved application reliability** with comprehensive monitoring and alerting
+- 🔄 **Streamlined development workflows** by implementing GitOps practices
+
+## 🔍 Current Focus
+
+```mermaid
+graph TD
+    A[AWS DevOps] --> B[Infrastructure as Code]
+    A --> C[Containerization]
+    A --> D[CI/CD Pipelines]
+    B --> E[Terraform]
+    B --> F[CloudFormation]
+    C --> G[Docker]
+    C --> H[Kubernetes]
+    D --> I[GitHub Actions]
+    D --> J[Jenkins]
+    K[React Development] --> L[Frontend Architecture]
+    K --> M[State Management]
+    K --> N[Performance Optimization]
+```
+
+## 📫 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/-mayurwagh/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://mayurwagh.in">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
+  </a>
+  <a href="mailto:mayurwagh2001@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/mayurwagh_dev">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
+  </a>
+</div>
 
 ---
 
-## 🌟 About Me
-- 💼 Currently working on **Automating Cloud Deployments & Monitoring**
-- 🌱 Learning & exploring **Advanced Kubernetes & GitOps workflows**
-- 💡 Interested in **Cloud Security, CI/CD, and Observability**
-- 🎯 Open to **collaborations on open-source DevOps projects**
-
----
-
-## 🔥 My Tech Stack
-
-### 🛠 DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 📦 Monitoring & Logging
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic-stack&logoColor=white)
-
-### ⚡ CI/CD & Automation
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-
----
-
-## 📌 Featured Projects
-
-### 🚀 **Top DevOps Projects**
-| Project | Tech Stack | GitHub Repo |
-|---------|-----------|-------------|
-| **EKS-InfraManager** | Terraform, AWS EKS, Kubernetes | [Repo Link](https://github.com/Mayur-wagh4/EKS-InfraManager) |
-| **CloudScaleApp-EKS** | AWS EKS, Kubernetes, React, Node.js | [Repo Link](https://github.com/Mayur-wagh4/CloudScaleApp-EKS) |
-| **SecureNode-CI-CD** | Jenkins, Docker, GitHub Actions | [Repo Link](https://github.com/Mayur-wagh4/SecureNode-CI-CD) |
-| **InfraPro-Terraform** | Terraform, AWS Infrastructure Automation | [Repo Link](https://github.com/Mayur-wagh4/InfraPro-Terraform) |
-| **K8s-MonitoringStack** | Kubernetes, Prometheus, Grafana | [Repo Link](https://github.com/Mayur-wagh4/K8s-MonitoringStack) |
-| **Mayurwagh.in** | React, AWS Amplify, AWS X-Ray | [Repo Link](https://github.com/Mayur-wagh4/PORTFOLIO.git) |
-
----
-
-## 📊 GitHub Stats & Activity
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-wagh4&layout=compact&theme=radical)
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/-mayurwagh/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=internet-explorer)](https://mayurwagh.in)
-
-📩 **Email:** mayurwagh2001@gmail.com
-
----
-
-💡 *Always learning, building, and optimizing cloud infrastructure!* 🚀
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mayur-wagh4&style=flat-square&color=blue" alt="Profile views"/>
+  <br>
+  <em>"Every deployment is an opportunity to learn."</em>
+</div>
