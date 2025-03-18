@@ -1,8 +1,14 @@
-Hi there, I'm Mayur Wagh! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there, I'm Mayur Wagh! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FEF&center=true&vCenter=true&random=false&width=500&lines=AWS+DevOps+Engineer;Infrastructure+as+Code+Enthusiast;Cloud+Architecture+Specialist" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=22&pause=1000&color=2D9CDB&center=true&vCenter=true&width=435&lines=AWS+DevOps+Engineer;Infrastructure+as+Code+Specialist;Cloud+Architecture+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  </a>
 </div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&fontSize=90" width="100%"/>
+</div>
 ## 👨‍💻 About Me
 
 I'm a **DevOps Engineer** with **2+ years** of experience in **AWS cloud infrastructure** and **React development**. I bridge the gap between development and operations, creating efficient, scalable, and automated cloud solutions.
