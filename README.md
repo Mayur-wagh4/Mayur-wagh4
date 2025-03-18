@@ -59,8 +59,7 @@ Passionate about **DevOps, Cloud, CI/CD, Infrastructure as Code, and Observabili
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mayur-wagh)
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/-mayurwagh/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=internet-explorer)](https://mayurwagh.in)
 
 📩 **Email:** mayurwagh2001@gmail.com
