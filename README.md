@@ -47,9 +47,7 @@ Passionate about **DevOps, Cloud, CI/CD, Infrastructure as Code, and Observabili
 | **SecureNode-CI-CD** | Jenkins, Docker, GitHub Actions | [Repo Link](https://github.com/Mayur-wagh4/SecureNode-CI-CD) |
 | **InfraPro-Terraform** | Terraform, AWS Infrastructure Automation | [Repo Link](https://github.com/Mayur-wagh4/InfraPro-Terraform) |
 | **K8s-MonitoringStack** | Kubernetes, Prometheus, Grafana | [Repo Link](https://github.com/Mayur-wagh4/K8s-MonitoringStack) |
-| **Mayurwagh.in** | React, AWS Amplify, AWS X-Ray | [Repo Link](https://github.com/Mayur-wagh4/mayurwagh-in) |
-| **GetToHire.com** | React, AWS EC2, Jenkins, Docker | [Repo Link](https://github.com/Mayur-wagh4/GetToHire) |
-| **Get4Grow.com** | React, AWS S3, AWS CodePipeline | [Repo Link](https://github.com/Mayur-wagh4/Get4Grow) |
+| **Mayurwagh.in** | React, AWS Amplify, AWS X-Ray | [Repo Link](https://github.com/Mayur-wagh4/PORTFOLIO.git) |
 
 ---
 
